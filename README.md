@@ -1,4 +1,4 @@
-# Simple object detection using python, opencv and YOLO
+# Simple object detection using python, opencv and YOLO 
 
 ---
 
@@ -22,3 +22,5 @@ python main.py -i [path to image]
 ---
 
 ![Sample](https://i.ibb.co/CwvbHdV/result.jpg)
+
+Feel free to raise pr
